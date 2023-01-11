@@ -11,8 +11,8 @@
 ## Результаты работы
 
 Программа на языке ассемблера: [lab1.s](/home/maria/Desktop/Kristall/lab-riscv-asm/src/lab1.s)  
-Программа на языке Си: [Lab1.c](/home/maria/Desktop/Kristall/lab-riscv-asm/src/lab1_c/lab1.c)  
-Дамп-файл программы на Си: [Lab1.dump](/home/maria/Desktop/Kristall/lab-riscv-asm/src/lab1_c/lab1.dump)  
+Программа на языке Си: [lab1.c](lab-riscv-asm/src/lab1_c/lab1.c )  
+Дамп-файл программы на Си: [lab1.dump](/home/maria/Desktop/Kristall/lab-riscv-asm/src/lab1_c/lab1.dump)  
 
 ## Тестирование
 Тестирование программы на языке Си производилось с помощью симулятора riscv64-unknown-elf-run. Тестирование ассемблерной программы выполнялось с помощью расширения RISC-V Venus Simulator для VSCode.
