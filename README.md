@@ -11,7 +11,7 @@
 ## Результаты работы
 
 Программа на языке ассемблера: [lab1.s](/home/maria/Desktop/Kristall/lab-riscv-asm/src/lab1.s)  
-Программа на языке Си: [lab1.c](lab-riscv-asm/src/lab1_c/lab1.c )  
+Программа на языке Си: [lab1.c](src/lab1_c/lab1.c )  
 Дамп-файл программы на Си: [lab1.dump](/home/maria/Desktop/Kristall/lab-riscv-asm/src/lab1_c/lab1.dump)  
 
 ## Тестирование
